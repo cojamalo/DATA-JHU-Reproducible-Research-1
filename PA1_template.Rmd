@@ -1,8 +1,8 @@
 ---
 title: "DATA-JHU-Reproducible-Research-1"
 output:
-  html_document: default
-  html_notebook: default
+   md_document:
+    variant: markdown_github
 ---
 ### Submission by Connor Lenio. Email: cojamalo@gmail.com
 Completion Date: Mar 27, 2017
