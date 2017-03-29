@@ -1,4 +1,13 @@
-## Introduction
+# DATA-JHU-Reproducible-Research-1
+The following files were submitted for the first project of John Hopkins University's Reproducible Research course hosted by Coursera
+
+### Submission by Connor Lenio. Email: cojamalo@gmail.com
+Completion Date: Mar 27, 2017
+
+### Please view https://cojamalo.github.io/DATA-JHU-Reproducible-Research-1/PA1_template.html to properly view the completed html document.
+
+## From the Project's Instructions:
+### Introduction
 
 It is now possible to collect a large amount of data about personal
 movement using activity monitoring devices such as a
@@ -18,7 +27,7 @@ day. The data consists of two months of data from an anonymous
 individual collected during the months of October and November, 2012
 and include the number of steps taken in 5 minute intervals each day.
 
-## Data
+### Data
 
 The data for this assignment can be downloaded from the course web
 site:
@@ -44,7 +53,7 @@ are a total of 17,568 observations in this
 dataset.
 
 
-## Assignment
+### Assignment
 
 This assignment will be described in multiple parts. You will need to
 write a report that answers the questions detailed below. Ultimately,
@@ -74,7 +83,7 @@ assignment so you do not have to download the data separately.
 
 
 
-### Loading and preprocessing the data
+#### Loading and preprocessing the data
 
 Show any code that is needed to
 
@@ -83,7 +92,7 @@ Show any code that is needed to
 2. Process/transform the data (if necessary) into a format suitable for your analysis
 
 
-### What is mean total number of steps taken per day?
+#### What is mean total number of steps taken per day?
 
 For this part of the assignment, you can ignore the missing values in
 the dataset.
@@ -93,14 +102,14 @@ the dataset.
 2. Calculate and report the **mean** and **median** total number of steps taken per day
 
 
-### What is the average daily activity pattern?
+#### What is the average daily activity pattern?
 
 1. Make a time series plot (i.e. `type = "l"`) of the 5-minute interval (x-axis) and the average number of steps taken, averaged across all days (y-axis)
 
 2. Which 5-minute interval, on average across all the days in the dataset, contains the maximum number of steps?
 
 
-### Imputing missing values
+#### Imputing missing values
 
 Note that there are a number of days/intervals where there are missing
 values (coded as `NA`). The presence of missing days may introduce
@@ -115,7 +124,7 @@ bias into some calculations or summaries of the data.
 4. Make a histogram of the total number of steps taken each day and Calculate and report the **mean** and **median** total number of steps taken per day. Do these values differ from the estimates from the first part of the assignment? What is the impact of imputing missing data on the estimates of the total daily number of steps?
 
 
-### Are there differences in activity patterns between weekdays and weekends?
+#### Are there differences in activity patterns between weekdays and weekends?
 
 For this part the `weekdays()` function may be of some help here. Use
 the dataset with the filled-in missing values for this part.
@@ -133,7 +142,7 @@ using the lattice system but you can make the same version of the plot
 using any plotting system you choose.
 
 
-## Submitting the Assignment
+### Submitting the Assignment
 
 To submit the assignment:
 
