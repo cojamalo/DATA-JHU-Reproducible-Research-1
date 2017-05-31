@@ -175,3 +175,5 @@ https://github.com/rdpeng/RepData_PeerAssessment1
 
 7c376cc5447f11537f8740af8e07d6facc3d9645
 ```
+
+Project coded by Connor Lenio - released into the public domain for educational purposes in 2017. 
